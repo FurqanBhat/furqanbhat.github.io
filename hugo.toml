@@ -1,0 +1,29 @@
+baseURL = "https://furqanbhat.github.io/"
+languageCode = "en-us"
+title = "Through My Eyes"
+theme = "PaperMod"
+
+
+[pagination]
+  pagerSize = 10
+
+
+[params]
+  author = "Furqan"
+  ShowReadingTime = true
+  ShowToc = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "light"
+  disableThemeToggle = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+

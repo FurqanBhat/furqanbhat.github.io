@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Through My Eyes</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Through My Eyes</description>
+    <generator>Hugo -- 0.153.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2025 12:47:23 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Joint Embedding Predictive Architecture</title>
+      <link>http://localhost:1313/posts/joint-embedding-predictive-architecture/</link>
+      <pubDate>Mon, 29 Dec 2025 12:47:23 +0300</pubDate>
+      <guid>http://localhost:1313/posts/joint-embedding-predictive-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am an undergraduate student working on self-supervised representation learning for vision,
+with current interests in JEPA-style objectives and scientific image datasets.&lt;/p&gt;
+&lt;p&gt;This site contains technical notes, experiments, and conceptual explanations written to
+clarify my understanding and share insights that may be useful to others.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
