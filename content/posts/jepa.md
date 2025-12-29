@@ -1,6 +1,6 @@
 ---
 title: "From Reconstruction to Prediction: Joint Embedding Predictive Architectures"
-date: 2025-01-01
+date: 2025-12-29
 draft: false
 ---
 
