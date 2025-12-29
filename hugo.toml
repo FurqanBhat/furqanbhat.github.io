@@ -13,8 +13,8 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowToc = true
   ShowCodeCopyButtons = true
-  defaultTheme = "light"
-  disableThemeToggle = true
+  defaultTheme = "auto"
+  disableThemeToggle = false
 
 [menu]
   [[menu.main]]
